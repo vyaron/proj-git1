@@ -1,0 +1,22 @@
+{
+  "name": "proj-git1",
+  "version": "1.0.0",
+  "description": "[I'm an inline-style link](https://www.google.com)\r ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png \"Logo Title Text 1\")",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vyaron/proj-git1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vyaron/proj-git1/issues"
+  },
+  "homepage": "https://github.com/vyaron/proj-git1#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
